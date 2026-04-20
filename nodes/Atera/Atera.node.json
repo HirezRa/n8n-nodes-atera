@@ -6,12 +6,12 @@
 	"resources": {
 		"credentialDocumentation": [
 			{
-				"url": "https://github.com/hirez10/n8n-nodes-atera#credentials"
+				"url": "https://github.com/HirezRa/n8n-nodes-atera#credentials"
 			}
 		],
 		"primaryDocumentation": [
 			{
-				"url": "https://github.com/hirez10/n8n-nodes-atera"
+				"url": "https://github.com/HirezRa/n8n-nodes-atera"
 			},
 			{
 				"url": "https://app.atera.com/apidocs"

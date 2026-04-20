@@ -1,3 +1,11 @@
+# Changelog
+
+## 0.1.2
+
+- Fix published project links to point to the active GitHub repository.
+- Update package author and contributors metadata to `hirez10`.
+- Refresh codex and README link references for npm/GitHub cross-navigation.
+
 ## 0.1.1
 
 - Remove starter node leftovers (`Example`, `GithubIssues`) from source package.

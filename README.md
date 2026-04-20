@@ -51,8 +51,8 @@ Credential test endpoint: `GET /api/v3/account`.
 - npm package: [https://www.npmjs.com/package/n8n-nodes-atera](https://www.npmjs.com/package/n8n-nodes-atera)
 - Atera API docs: [https://app.atera.com/apidocs](https://app.atera.com/apidocs)
 - Atera API support article: [https://support.atera.com/hc/en-us/articles/219083397-API](https://support.atera.com/hc/en-us/articles/219083397-API)
-- Repository: [https://github.com/hirez10/n8n-nodes-atera](https://github.com/hirez10/n8n-nodes-atera)
-- Issues: [https://github.com/hirez10/n8n-nodes-atera/issues](https://github.com/hirez10/n8n-nodes-atera/issues)
+- Repository: [https://github.com/HirezRa/n8n-nodes-atera](https://github.com/HirezRa/n8n-nodes-atera)
+- Issues: [https://github.com/HirezRa/n8n-nodes-atera/issues](https://github.com/HirezRa/n8n-nodes-atera/issues)
 
 ## Development
 
@@ -64,7 +64,7 @@ npm run build
 
 ## Contributor
 
-- [Erez Rahamim](https://github.com/hirez10)
+- [hirez10](https://github.com/hirez10)
 
 ## License
 

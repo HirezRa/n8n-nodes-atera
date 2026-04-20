@@ -1,9 +1,9 @@
 {
 	"name": "n8n-nodes-atera",
-	"version": "0.1.1",
+	"version": "0.1.2",
 	"description": "n8n community node for Atera API v3",
 	"license": "MIT",
-	"homepage": "https://github.com/hirez10/n8n-nodes-atera",
+	"homepage": "https://github.com/HirezRa/n8n-nodes-atera",
 	"keywords": [
 		"n8n-community-node-package",
 		"atera",
@@ -12,21 +12,21 @@
 		"rmm"
 	],
 	"author": {
-		"name": "Erez Rahamim",
+		"name": "hirez10",
 		"url": "https://github.com/hirez10"
 	},
 	"contributors": [
 		{
-			"name": "Erez Rahamim",
+			"name": "hirez10",
 			"url": "https://github.com/hirez10"
 		}
 	],
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/hirez10/n8n-nodes-atera.git"
+		"url": "https://github.com/HirezRa/n8n-nodes-atera.git"
 	},
 	"bugs": {
-		"url": "https://github.com/hirez10/n8n-nodes-atera/issues"
+		"url": "https://github.com/HirezRa/n8n-nodes-atera/issues"
 	},
 	"scripts": {
 		"build": "n8n-node build",
