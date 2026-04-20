@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.1.3
+
+- Update author and contributor profile links from `hirez10` to `HirezRa`.
+- Refresh README contributor section so GitHub and npm show consistent profile links.
+
 ## 0.1.2
 
 - Fix published project links to point to the active GitHub repository.

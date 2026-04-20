@@ -1,6 +1,6 @@
 {
 	"name": "n8n-nodes-atera",
-	"version": "0.1.2",
+	"version": "0.1.3",
 	"description": "n8n community node for Atera API v3",
 	"license": "MIT",
 	"homepage": "https://github.com/HirezRa/n8n-nodes-atera",
@@ -12,13 +12,13 @@
 		"rmm"
 	],
 	"author": {
-		"name": "hirez10",
-		"url": "https://github.com/hirez10"
+		"name": "HirezRa",
+		"url": "https://github.com/HirezRa"
 	},
 	"contributors": [
 		{
-			"name": "hirez10",
-			"url": "https://github.com/hirez10"
+			"name": "HirezRa",
+			"url": "https://github.com/HirezRa"
 		}
 	],
 	"repository": {

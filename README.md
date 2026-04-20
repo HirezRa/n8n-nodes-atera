@@ -64,7 +64,7 @@ npm run build
 
 ## Contributor
 
-- [hirez10](https://github.com/hirez10)
+- [HirezRa](https://github.com/HirezRa)
 
 ## License
 
