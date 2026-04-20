@@ -6,10 +6,13 @@
 	"resources": {
 		"credentialDocumentation": [
 			{
-				"url": "https://support.atera.com/hc/en-us/articles/219083397-API"
+				"url": "https://github.com/hirez10/n8n-nodes-atera#credentials"
 			}
 		],
 		"primaryDocumentation": [
+			{
+				"url": "https://github.com/hirez10/n8n-nodes-atera"
+			},
 			{
 				"url": "https://app.atera.com/apidocs"
 			}
