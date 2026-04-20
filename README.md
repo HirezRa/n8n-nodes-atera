@@ -1,8 +1,13 @@
-![Banner image](https://user-images.githubusercontent.com/10284570/173569848-c624317f-42b1-45a6-ab09-f0ea3c247648.png)
+# n8n-nodes-atera
 
-# n8n-nodes-starter
+n8n community node for integrating with the Atera API (`/api/v3`) using API key authentication (`X-API-KEY`).
 
-This starter repository helps you build custom integrations for [n8n](https://n8n.io). It includes example nodes, credentials, the node linter, and all the tooling you need to get started.
+This package currently provides an `Atera` node with the following resources:
+- Account (`get`)
+- Agent (`getMany`, `get`, `delete`)
+- Alert (`getMany`, `get`, `create`, `update`, `delete`)
+- Customer (`getMany`, `get`, `create`, `update`, `delete`)
+- Ticket (`getMany`, `get`, `create`, `update`, `delete`)
 
 ## Quick Start
 

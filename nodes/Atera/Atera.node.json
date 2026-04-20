@@ -1,0 +1,19 @@
+{
+	"node": "n8n-nodes-atera.atera",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"categories": ["IT Ops", "Development"],
+	"resources": {
+		"credentialDocumentation": [
+			{
+				"url": "https://support.atera.com/hc/en-us/articles/219083397-API"
+			}
+		],
+		"primaryDocumentation": [
+			{
+				"url": "https://app.atera.com/apidocs"
+			}
+		]
+	},
+	"alias": ["Atera API", "RMM", "Ticketing"]
+}
